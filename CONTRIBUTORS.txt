@@ -1,0 +1,21 @@
+#Contributors
+-------------
+
+  Name:                              Date:                    Contribution:
+* AaronJ97       24 JUN 2021              *Project Developer [1-coded all files in the project] [lines 1-all]
+*
+*
+  
+   
+
+
+  Contact Info:
+
+
+#Rules of Contribution
+----------------------
+
+ # Please use the the above format in your listing of contributions
+ # please include your name, email address, date of contribution, and the contribution you added to the above list (please also
+   make a fresh set comment spaces for the next person as i have also done. the first two have been pasted already so that when
+   you fill in one, you also paste a blank one.
